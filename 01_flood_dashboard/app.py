@@ -1,5 +1,5 @@
 """
-Flood Data Visualisation Dashboard (Humanised)
+Flood Data Visualisation Dashboard
 ---------------------------------------------
 Explore rainfall and river discharge over time and see example
 flood‑prone locations on a map. This is a teaching app: small, clear,
