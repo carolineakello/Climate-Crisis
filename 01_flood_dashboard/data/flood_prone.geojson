@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "River A - Lowland",
+        "risk_score": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.58,
+          0.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wetland B",
+        "risk_score": 60
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.2,
+          1.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delta C",
+        "risk_score": 80
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1,
+          0.1
+        ]
+      }
+    }
+  ]
+}
