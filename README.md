@@ -1,4 +1,4 @@
-# Flood Projects in Python — Humanised Collection
+# Flood Projects in Python
 
 Seven complete, readable, beginner‑friendly flood projects:
 1) Flood Data Visualisation Dashboard (Dash)
